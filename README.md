@@ -1,7 +1,7 @@
 # Handwritten Digitals Classification for Math App
 
 
-Executive Summary
+
 The objective of this handwritten digital classification project is to use single digital images and extract pixel values, to accurately identify 10 digitals for mathematical exercise and tests. We also provide an introduction to applying techniques that involve image-based features. We are going to apply different classification techniques to benchmark the relevance of classifiers in image classification problem. 
 
 RoadMap of the Project:
